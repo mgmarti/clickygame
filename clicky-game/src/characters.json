@@ -2,52 +2,62 @@
     {
       "id": 1,
       "name": "Jonas",
-      "image": "https://66.media.tumblr.com/d5094cdf2718a088bf5835b1595c63a9/tumblr_p140ip3u6S1wkxnj3o1_400.png"
+      "image": "https://66.media.tumblr.com/d5094cdf2718a088bf5835b1595c63a9/tumblr_p140ip3u6S1wkxnj3o1_400.png",
+      "width": "200px"
     },
     {
       "id": 2,
       "name": "Mikkel",
-      "image": "https://66.media.tumblr.com/dde3e7a2f9981ed327ea9b13d21f8c4c/tumblr_pql64r7ygw1wkxnj3o2_400.png"
+      "image": "https://66.media.tumblr.com/dde3e7a2f9981ed327ea9b13d21f8c4c/tumblr_pql64r7ygw1wkxnj3o2_400.png",
+      "width": "200px"
     },
     {
       "id": 3,
       "name": "Martha",
-      "image": "https://66.media.tumblr.com/08bfbb334e6cdc75eed0ead38e052e70/tumblr_pgt0jwcuO81wkxnj3o3_400.png"
+      "image": "https://66.media.tumblr.com/08bfbb334e6cdc75eed0ead38e052e70/tumblr_pgt0jwcuO81wkxnj3o3_400.png",
+      "width": "200px"
     },
     {
       "id": 4,
       "name": "Magnus",
-      "image": "https://66.media.tumblr.com/e802878be79480353a656d968d6db0c6/tumblr_pugeg5tJYT1wkxnj3o7_400.png"
+      "image": "https://66.media.tumblr.com/e802878be79480353a656d968d6db0c6/tumblr_pugeg5tJYT1wkxnj3o7_400.png",
+      "width": "200px"
     },
     {
       "id": 5,
       "name": "Franziska",
-      "image": "https://66.media.tumblr.com/bc604f63c27f52b5b035e8f5b2b44ca4/tumblr_pu2xpl5LbR1wkxnj3o5_400.png"
+      "image": "https://66.media.tumblr.com/bc604f63c27f52b5b035e8f5b2b44ca4/tumblr_pu2xpl5LbR1wkxnj3o5_400.png",
+      "width": "200px"
     },
     {
       "id": 6,
       "name": "Bartosz",
-      "image": "https://66.media.tumblr.com/56b05084988455ba2f533be4115c28f6/tumblr_p15g9e4XL81wkxnj3o1_400.png"
+      "image": "https://66.media.tumblr.com/56b05084988455ba2f533be4115c28f6/tumblr_p15g9e4XL81wkxnj3o1_400.png",
+      "width": "200px"
     },
     {
       "id": 7,
       "name": "Noah",
-      "image": "https://66.media.tumblr.com/7b6afe3db61fdb5d7650a8d65ff7add0/tumblr_pue74jD61y1wkxnj3o3_400.png"
+      "image": "https://66.media.tumblr.com/7b6afe3db61fdb5d7650a8d65ff7add0/tumblr_pue74jD61y1wkxnj3o3_400.png",
+      "width": "200px"
     },
     {
       "id": 8,
       "name": "Elisabeth",
-      "image": "https://66.media.tumblr.com/2a0deb5c13382c35aca75bd9de91ddfe/tumblr_pugeqgIeru1wkxnj3o3_400.png"
+      "image": "https://66.media.tumblr.com/2a0deb5c13382c35aca75bd9de91ddfe/tumblr_pugeqgIeru1wkxnj3o3_400.png",
+      "width": "200px"
     },
     {
       "id": 9,
       "name": "Charlotte",
-      "image": "https://66.media.tumblr.com/9160fdb0e98538a73842b16410c7c1aa/tumblr_pi7rrrT2Rm1wkxnj3o4_400.png"
+      "image": "https://66.media.tumblr.com/9160fdb0e98538a73842b16410c7c1aa/tumblr_pi7rrrT2Rm1wkxnj3o4_400.png",
+      "width": "200px"
     },
     {
       "id": 10,
       "name": "Claudia",
-      "image": "https://66.media.tumblr.com/01657c0dce98d5c4b5c8fbf0c61dc6fb/tumblr_pgt05f9nyW1wkxnj3o3_400.png"
+      "image": "https://66.media.tumblr.com/01657c0dce98d5c4b5c8fbf0c61dc6fb/tumblr_pgt05f9nyW1wkxnj3o3_400.png",
+      "width": "200px"
     }
 ]
   

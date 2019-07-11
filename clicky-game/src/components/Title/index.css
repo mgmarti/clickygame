@@ -1,0 +1,6 @@
+.jumbotron {
+    background-image: url('https://i.ytimg.com/vi/RV9Xe7D3mPY/maxresdefault.jpg');
+    /* background-size: cover; */
+    background-position: center;
+    height: 400px;
+}
