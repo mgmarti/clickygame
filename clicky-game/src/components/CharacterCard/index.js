@@ -1,5 +1,5 @@
 import React from 'react';
-
+import './index.css'
 // const CharacterCard = (props) => {
 //   return (
 //     <div className="card">

@@ -9,18 +9,20 @@ import Title from "./components/Title";
 function App() {
   return (
     <div>
-    <Title />
-    <Navbar />
-    <Wrapper>
-      {characters.map(character => (
-        <CharacterCard
-          id={character.id}
-          key={character.id}
-          image={character.image}
-          width={character.width}
-        />
-      ))}
-    </Wrapper>
+      <Title />
+      <Navbar />
+      <div className="wrapped">
+        <Wrapper>
+          {characters.map(character => (
+            <CharacterCard
+              id={character.id}
+              key={character.id}
+              image={character.image}
+              width={character.width}
+            />
+          ))}
+        </Wrapper>
+      </div>
     </div>
   );
 }
