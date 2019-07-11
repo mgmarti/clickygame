@@ -1,11 +1,10 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>Deploy test</h1>
+      <h1>Deploy testing</h1>
     </div>
   );
 }
