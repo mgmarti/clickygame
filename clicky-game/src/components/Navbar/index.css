@@ -1,0 +1,13 @@
+.divider {
+    /* background-color: #134654; */
+    color: white;
+    font-size: 1rem;
+    margin-top: -130px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+hr {
+    width: 450px;
+    border-top: 1px solid white;
+}
