@@ -1,0 +1,4 @@
+[build]
+base = "clicky-game/"
+publish = "clicky-game/build/"
+command = "yarn build"
